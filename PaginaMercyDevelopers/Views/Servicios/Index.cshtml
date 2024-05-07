@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PaginaMercyDevelopers.Models.Servicio>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Mantenimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InstalacionSistemaOperativo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Formateo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VentaHardware)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InstalacionHardware)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mantenimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstalacionSistemaOperativo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Formateo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VentaHardware)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstalacionHardware)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Idservicios">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Idservicios">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Idservicios">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

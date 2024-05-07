@@ -1,0 +1,89 @@
+﻿@model IEnumerable<PaginaMercyDevelopers.Models.ClientesHasServicio>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Inicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Termino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Coste)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tecnico)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroTecnico)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CorreoTecnico)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClientesHasServicioscol)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClientesIdclientesNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiciosIdserviciosNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Inicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Termino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Coste)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tecnico)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroTecnico)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorreoTecnico)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientesHasServicioscol)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientesIdclientesNavigation.Idclientes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiciosIdserviciosNavigation.Idservicios)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

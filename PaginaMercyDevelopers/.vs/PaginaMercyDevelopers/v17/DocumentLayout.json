@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\controllers\\clienteshasservicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:controllers\\clienteshasservicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\paginamercydevelopers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:paginamercydevelopers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|c:\\users\\usuario\\desktop\\evaluacion\\paginamercydevelopers\\paginamercydevelopers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{86F89DD3-92A0-4C71-9F91-EC28A2826A00}|PaginaMercyDevelopers.csproj|solutionrelative:paginamercydevelopers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesHasServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Controllers\\ClientesHasServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesHasServiciosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Controllers\\ClientesHasServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ClientesHasServiciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:07:08.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:06:46.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:06:13.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T01:58:32.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:59:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MydbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Models\\MydbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MydbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\Models\\MydbContext.cs",
+              "RelativeToolTip": "Models\\MydbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:57:30.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginaMercyDevelopers.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\PaginaMercyDevelopers.csproj",
+              "RelativeDocumentMoniker": "PaginaMercyDevelopers.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\PaginaMercyDevelopers.csproj",
+              "RelativeToolTip": "PaginaMercyDevelopers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T02:03:24.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginaMercyDevelopers",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\PaginaMercyDevelopers.csproj",
+              "RelativeDocumentMoniker": "PaginaMercyDevelopers.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Evaluacion\\PaginaMercyDevelopers\\PaginaMercyDevelopers.csproj",
+              "RelativeToolTip": "PaginaMercyDevelopers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T02:03:41.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
